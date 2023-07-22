@@ -1,11 +1,6 @@
 name: NAStool Package
 on:
   workflow_dispatch:
-    # inputs:
-    #   github_token:
-    #     description: 'github token'
-    #     required: true
-    #     default: ''
     branches:
       - master
     paths:
